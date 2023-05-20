@@ -1,1 +1,27 @@
-There is no official support for this device yet
+{
+	"response": [
+		{
+			"maintainer": "Arsalan Zeus",
+			"oem": "Realme",
+			"device": "Realme GT Neo2 5G",
+			"filename": "VoidUI-Thunderstorm-bitra-13.0-20230520-1555-Unofficial.zip",
+			"download": "https://sourceforge.net/projects/arsalan-roms/files/bitra/roms/VoidUi/VoidUI-Thunderstorm-bitra-13.0-20230520-1555-Unofficial.zip/download",
+			"timestamp": 1684598067,
+			"md5": "4644464dfb70daf2835f271fab3e14c5",
+			"sha256": "ad57efe14c79b076b315813fd883ee5e48210ac741f775f1916daa3172692bb4",
+			"size": 2309427330,
+			"version": Thunderstorm,
+			"buildtype": "Daily / Weekly Builds",
+			"forum": "https://t.me/VoidUI",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/arsalan_zeus",
+			"dt": "https://github.com/arsalan-zeus/device_realme_bitra",
+			"common-dt": "https://github.com/arsalan-zeus/device_realme_sm8250-common",
+			"kernel": "https://github.com/arsalan-zeus/kernel_realme_sm8250"
+		}
+	]
+}
